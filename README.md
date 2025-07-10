@@ -44,5 +44,4 @@ All insights are visualized using `matplotlib` and `seaborn`.
 
 ---
 
-## 📁 Project Structure
 
