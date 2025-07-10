@@ -1,4 +1,4 @@
-# Movie_Data_Anlytics
+# Movie_Data_Analysis
 
 
 This project explores **The Movies Dataset** from TMDB (Kaggle), combining movie metadata and cast/crew information. It includes detailed data cleaning, feature engineering, and visual storytelling using Python (pandas, matplotlib, seaborn).
